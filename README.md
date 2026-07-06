@@ -80,3 +80,11 @@ Os arquivos `AGENTS.md` e `CLAUDE.md` permanecem na raiz por fornecerem instruç
 - O valor deve ser maior que zero e o dia de vencimento deve ficar entre 1 e 31.
 - Dados demonstrativos nunca são inseridos automaticamente.
 - O app não utiliza login, backend, Firebase ou serviços externos.
+
+## MEMBROS DO GRUPO:
+
+- Luis Gustavo Alves Correia
+- Luiz Augusto Farias Hora
+- Marcos Yago Andrade Gonzaga
+- Felipe da Silva Souza
+
